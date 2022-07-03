@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, my name is Shahriar Kasem
-#### Front-end Developer || ReactJS Developer
+# Hi there 👋, my name is Shahriar Kasem
+## Front-end Developer || ReactJS Developer
 Logical and organized individual with a strong foundation in front-end web development. Proficient in JavaScript and ReactJS. Seeking a front-end developer role to enhance and explore my web development knowledge. Ability to convert customer requirements into innovative web application solutions.
 
 Skills: REACT / JS / HTML / CSS / Nodejs / Express
