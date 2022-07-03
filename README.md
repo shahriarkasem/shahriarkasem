@@ -32,6 +32,4 @@ Skills: REACT / JS / HTML / CSS / Nodejs / Express
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriarkasem&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarkasem)  
-
 
