@@ -34,5 +34,4 @@ Skills: REACT / JS / HTML / CSS / Nodejs / Express
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahriarkasem)  
 
-![GitHub metrics](https://metrics.lecoq.io/shahriarkasem)  
 
